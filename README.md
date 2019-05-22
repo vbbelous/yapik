@@ -17,4 +17,8 @@ YAPik Plus
 - возможность поделиться ссылкой на изображение
 - возможность сохранить изображение
 
+<a href="https://github.com/vbbelous/yapik/blob/master/yapik_plus.apk">СКАЧАТЬ</a>
+
+https://github.com/vbbelous/yapik/blob/master/yapik_plus.apk
+
 <img src="https://github.com/vbbelous/yapik/blob/master/screen_1.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_2.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_3.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_4.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_5.png"></img> 
