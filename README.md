@@ -1,6 +1,8 @@
 YAPik Plus
 версия: 1.3.5
 
+<img src="https://github.com/vbbelous/yapik/blob/master/logo.png"></img>
+
 Мобильный клиент для отображения контента с развлекательного портала ЯПлакалъ (http://www.yaplakal.com).
 
 В данной версии реализовано:
@@ -14,3 +16,5 @@ YAPik Plus
 - просмотр профиля пользователей
 - возможность поделиться ссылкой на изображение
 - возможность сохранить изображение
+
+<img src="https://github.com/vbbelous/yapik/blob/master/screen_1.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_2.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_3.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_4.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_5.png"></img> 
