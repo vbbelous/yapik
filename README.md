@@ -1,4 +1,4 @@
-<a href="https://github.com/vbbelous/yapik/blob/master/yapik_plus.apk">СКАЧАТЬ</a>
+<a href="https://github.com/vbbelous/yapik/raw/master/yapik_plus.apk">СКАЧАТЬ</a>
 
 YAPik Plus
 версия: 1.3.6
