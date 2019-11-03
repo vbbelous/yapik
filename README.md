@@ -1,5 +1,7 @@
+<a href="https://github.com/vbbelous/yapik/blob/master/yapik_plus.apk">СКАЧАТЬ</a>
+
 YAPik Plus
-версия: 1.3.5
+версия: 1.3.6
 
 <img src="https://github.com/vbbelous/yapik/blob/master/logo.png"></img>
 
@@ -16,8 +18,6 @@ YAPik Plus
 - просмотр профиля пользователей
 - возможность поделиться ссылкой на изображение
 - возможность сохранить изображение
-
-<a href="https://github.com/vbbelous/yapik/blob/master/yapik_plus.apk">СКАЧАТЬ</a>
 
 https://github.com/vbbelous/yapik/blob/master/yapik_plus.apk
 
