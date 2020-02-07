@@ -3,7 +3,7 @@
 YAPik Plus
 версия: 2.0.0
 
-<img src="https://github.com/vbbelous/yapik/blob/master/logo.png"></img>
+<img src="https://github.com/vbbelous/yapik/blob/master/images/logo.png"></img>
 
 Мобильный клиент для отображения контента с развлекательного портала ЯПлакалъ (http://www.yaplakal.com).
 
@@ -21,4 +21,4 @@ YAPik Plus
 
 https://github.com/vbbelous/yapik/blob/master/yapik_plus.apk
 
-<img src="https://github.com/vbbelous/yapik/blob/master/screen_1.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_2.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_3.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_4.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/screen_5.png"></img> 
+<img src="https://github.com/vbbelous/yapik/blob/master/images/screen_1.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/images/screen_2.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/images/screen_3.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/images/screen_4.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/images/screen_5.png"></img> 
