@@ -1,7 +1,7 @@
-<a href="https://github.com/vbbelous/yapik/raw/master/yapik_plus.apk">СКАЧАТЬ</a>
+<a href="https://github.com/vbbelous/yapik/raw/master/yapik.apk">СКАЧАТЬ</a>
 
 YAPik Plus
-версия: 2.0.0
+версия: 2.0.1
 
 <img src="https://github.com/vbbelous/yapik/blob/master/images/logo.png"></img>
 
@@ -20,6 +20,6 @@ Android приложение Япик
 - возможность поделиться ссылкой на изображение
 - возможность сохранить изображение
 
-https://github.com/vbbelous/yapik/blob/master/yapik_plus.apk
+https://github.com/vbbelous/yapik/blob/master/yapik.apk
 
 <img src="https://github.com/vbbelous/yapik/blob/master/images/screen_1.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/images/screen_2.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/images/screen_3.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/images/screen_4.png"></img> <img src="https://github.com/vbbelous/yapik/blob/master/images/screen_5.png"></img> 
