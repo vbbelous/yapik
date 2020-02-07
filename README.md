@@ -6,6 +6,7 @@ YAPik Plus
 <img src="https://github.com/vbbelous/yapik/blob/master/images/logo.png"></img>
 
 Мобильный клиент для отображения контента с развлекательного портала ЯПлакалъ (http://www.yaplakal.com).
+Android приложение Япик
 
 В данной версии реализовано:
 - удобное чтение, отображение изображений (в том числе анимация), видео
