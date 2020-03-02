@@ -1,7 +1,7 @@
 <a href="https://github.com/vbbelous/yapik/raw/master/yapik.apk">СКАЧАТЬ</a>
 
 YAPik Plus
-версия: 2.0.1
+версия: 2.0.2
 
 <img src="https://github.com/vbbelous/yapik/blob/master/images/logo.png"></img>
 
